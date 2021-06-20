@@ -1,0 +1,20 @@
+header {
+    background-color: #002a3c;
+    display: flex !important;
+    align-items: center !important;
+    padding: 20px 10px;
+
+    .navbar-nav {
+        text-align: right !important;
+        background-color: transparent !important;
+    }
+    
+    a {
+        color: white !important;
+        text-decoration: none !important;
+    }
+
+    li {
+        color: white !important;
+    }
+}

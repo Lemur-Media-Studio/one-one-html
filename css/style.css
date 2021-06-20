@@ -1,0 +1,60 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: #002a3c;
+  display: flex !important;
+  align-items: center !important;
+  padding: 20px 10px;
+}
+header .navbar-nav {
+  text-align: right !important;
+  background-color: transparent !important;
+}
+header a {
+  color: white !important;
+  text-decoration: none !important;
+}
+header li {
+  color: white !important;
+}
+
+body p {
+  line-height: 25px;
+}
+body h1 {
+  font-family: "SuperFly One";
+  font-size: 98px;
+}
+body h2 {
+  font-family: "BentonSans Black";
+  font-size: 25px;
+}
+body h3 {
+  font-family: "BentonSans Black";
+  font-size: 18px;
+}
+body h4 {
+  font-family: "SuperFly One";
+  font-size: 14px;
+}
+body h5 {
+  font-family: "SuperFly One";
+  font-size: 45px;
+}
+body strong {
+  font-weight: normal;
+  font-family: "BentonSans Black";
+}
+body .big_text {
+  font-size: 17px;
+}
+body hr {
+  width: 80px;
+  margin: 0 auto;
+  border-bottom: 3px solid white;
+}
+
+/*# sourceMappingURL=style.css.map */
