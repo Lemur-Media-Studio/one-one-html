@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+p { 
+    line-height: 25px;
+}
+h1 { font-family: 'SuperFly One'; font-size: 98px; }
+h2 {  font-family: 'BentonSans Black'; font-size: 25px; }
+h3 {  font-family: 'BentonSans Black'; font-size: 18px; }
+h4 { font-family: 'SuperFly One'; font-size: 14px; }
+h5 { font-family: 'SuperFly One'; font-size: 45px; }
+strong { font-weight: normal; font-family: 'BentonSans Black'; }
+.big_text { font-size: 17px; }
+hr { width: 80px; margin: 0 auto; border-bottom: 3px solid white; }
+
+header {
+    background-color: #002a3c;
+    display: flex !important;
+    align-items: center !important;
+    padding: 20px 10px;
+}
+
+.navbar-nav {
+    text-align: right !important;
+    background-color: transparent !important;
+}
+
+.navbar-nav li {
+    color: white !important;
+}
+
+
+
+
