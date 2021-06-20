@@ -1,3 +1,6 @@
+@import "../../fonts/stylesheet.css";
+@import "../../fonts/stylesheet.css";
+@import "../fonts/stylesheet.css";
 * {
   padding: 0;
   margin: 0;
@@ -21,6 +24,11 @@ header li {
   color: white !important;
 }
 
+body {
+  font-family: "BentonSans";
+  font-size: 12px;
+  color: #002a3c;
+}
 body p {
   line-height: 25px;
 }
