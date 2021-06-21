@@ -1,8 +1,10 @@
+@import "../../fonts/stylesheet.css";
+
 header {
     background-color: #002a3c;
     display: flex !important;
     align-items: center !important;
-    padding: 20px 10px;
+    padding: 20px 10px; 
 
     .navbar-nav {
         text-align: right !important;
